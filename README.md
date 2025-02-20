@@ -25,7 +25,7 @@ Ensure you have the following installed:
 ### Setup Instructions
 ```bash
 # Clone the repository
-git clone https://github.com/SreejiBR/Recruiter
+git clone https://github.com/SreejiBR/RecruiterAI
 cd Recruiter
 
 # Install dependencies

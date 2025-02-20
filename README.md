@@ -26,7 +26,7 @@ Ensure you have the following installed:
 ```bash
 # Clone the repository
 git clone https://github.com/SreejiBR/RecruiterAI
-cd Recruiter
+cd RecruiterAI
 
 # Install dependencies
 pip install -r requirements.txt

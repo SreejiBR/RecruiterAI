@@ -68,6 +68,9 @@ AI-Recruiter/
 │-- CONTRIBUTING.md    # Contribution guidelines
 ```
 
+## Screenshot
+[Click Here](https://github.com/SreejiBR/RecruiterAI/blob/main/templates/Screenshot%202025-02-06%20230423%20(1)%20(1).pdf) to go to screenshots.
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
